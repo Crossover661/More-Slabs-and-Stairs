@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "more-slabs-and-stairs:terracotta_slab",
+    "more-slabs-and-stairs:white_terracotta_slab",
+    "more-slabs-and-stairs:light_gray_terracotta_slab",
+    "more-slabs-and-stairs:gray_terracotta_slab",
+    "more-slabs-and-stairs:black_terracotta_slab",
+    "more-slabs-and-stairs:brown_terracotta_slab",
+    "more-slabs-and-stairs:red_terracotta_slab",
+    "more-slabs-and-stairs:orange_terracotta_slab",
+    "more-slabs-and-stairs:yellow_terracotta_slab",
+    "more-slabs-and-stairs:lime_terracotta_slab",
+    "more-slabs-and-stairs:green_terracotta_slab",
+    "more-slabs-and-stairs:cyan_terracotta_slab",
+    "more-slabs-and-stairs:light_blue_terracotta_slab",
+    "more-slabs-and-stairs:blue_terracotta_slab",
+    "more-slabs-and-stairs:purple_terracotta_slab",
+    "more-slabs-and-stairs:magenta_terracotta_slab",
+    "more-slabs-and-stairs:pink_terracotta_slab"
+  ]
+}

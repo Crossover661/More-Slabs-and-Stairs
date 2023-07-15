@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "more-slabs-and-stairs:gold_slab",
+    "more-slabs-and-stairs:gold_stairs",
+    "more-slabs-and-stairs:diamond_slab",
+    "more-slabs-and-stairs:diamond_stairs",
+    "more-slabs-and-stairs:emerald_slab",
+    "more-slabs-and-stairs:emerald_stairs"
+  ]
+}

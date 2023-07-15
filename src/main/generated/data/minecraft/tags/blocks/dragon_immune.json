@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "more-slabs-and-stairs:obsidian_slab",
+    "more-slabs-and-stairs:obsidian_stairs",
+    "more-slabs-and-stairs:bedrock_slab",
+    "more-slabs-and-stairs:bedrock_stairs"
+  ]
+}

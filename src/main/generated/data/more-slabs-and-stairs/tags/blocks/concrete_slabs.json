@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "more-slabs-and-stairs:white_concrete_slab",
+    "more-slabs-and-stairs:light_gray_concrete_slab",
+    "more-slabs-and-stairs:gray_concrete_slab",
+    "more-slabs-and-stairs:black_concrete_slab",
+    "more-slabs-and-stairs:brown_concrete_slab",
+    "more-slabs-and-stairs:red_concrete_slab",
+    "more-slabs-and-stairs:orange_concrete_slab",
+    "more-slabs-and-stairs:yellow_concrete_slab",
+    "more-slabs-and-stairs:lime_concrete_slab",
+    "more-slabs-and-stairs:green_concrete_slab",
+    "more-slabs-and-stairs:cyan_concrete_slab",
+    "more-slabs-and-stairs:light_blue_concrete_slab",
+    "more-slabs-and-stairs:blue_concrete_slab",
+    "more-slabs-and-stairs:purple_concrete_slab",
+    "more-slabs-and-stairs:magenta_concrete_slab",
+    "more-slabs-and-stairs:pink_concrete_slab"
+  ]
+}

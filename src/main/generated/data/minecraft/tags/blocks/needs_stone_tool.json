@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "more-slabs-and-stairs:iron_slab",
+    "more-slabs-and-stairs:iron_stairs",
+    "more-slabs-and-stairs:lapis_slab",
+    "more-slabs-and-stairs:lapis_stairs"
+  ]
+}

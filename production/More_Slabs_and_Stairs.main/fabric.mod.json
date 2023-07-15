@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "more-slabs-and-stairs",
+	"version": "${version}",
+	"name": "More Slabs And Stairs",
+	"description": "Adds slab and stair variants for common Minecraft building blocks",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/more-slabs-and-stairs/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.crossover661.moreslabsandstairs.MoreSlabsAndStairs"
+		],
+		"fabric-datagen": [
+			"net.crossover661.moreslabsandstairs.MoreSlabsAndStairsDataGenerator"
+		],
+		"client": [
+			"net.crossover661.moreslabsandstairs.MoreSlabsAndStairsClient"
+		]
+	},
+	"mixins": [
+		"more-slabs-and-stairs.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.21",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

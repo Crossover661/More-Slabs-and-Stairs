@@ -1,0 +1,13 @@
+// 1.20.1	2023-07-13T16:18:08.7655964	More Slabs And Stairs/Tags for minecraft:block
+f4de622dd42434ad241507fc494517f4ff8db4e2 data\minecraft\tags\blocks\needs_diamond_tool.json
+6cca2dfcfca9310ad44d048ca660e9c8151b4deb data\minecraft\tags\blocks\infiniburn_end.json
+ea6106d84c57b79dac163bfc31704c2e1c271873 data\minecraft\tags\blocks\dragon_immune.json
+b0da0863ce9a50cc97a6189f816701d294a39be3 data\minecraft\tags\blocks\needs_stone_tool.json
+fbc78e92521fb2a390cbe21b50ee4e7e6f0b5944 data\minecraft\tags\blocks\needs_iron_tool.json
+6cca2dfcfca9310ad44d048ca660e9c8151b4deb data\minecraft\tags\blocks\wither_immune.json
+101cbe435a60d880b4793b6e589444e873947b98 data\more-slabs-and-stairs\tags\blocks\concrete.json
+da3127e640624224a41586bbad9ec37ffa022b3f data\more-slabs-and-stairs\tags\blocks\concrete_slabs.json
+bc36634d4a211dff7be9ec78c095106c49f7820d data\more-slabs-and-stairs\tags\blocks\concrete_stairs.json
+1cfce479b3769e76b4ae6078aa8d7b11a5b99919 data\minecraft\tags\blocks\mineable\pickaxe.json
+6248e40b2ddeca3e7e899d5ac466cac9f56007dc data\more-slabs-and-stairs\tags\blocks\terracotta_slabs.json
+d6cd8cd44ab798d3d4f46bc60418e7d8e9d756d7 data\more-slabs-and-stairs\tags\blocks\terracotta_stairs.json

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "more-slabs-and-stairs:netherite_slab",
+    "more-slabs-and-stairs:netherite_stairs",
+    "more-slabs-and-stairs:obsidian_slab",
+    "more-slabs-and-stairs:obsidian_stairs"
+  ]
+}
