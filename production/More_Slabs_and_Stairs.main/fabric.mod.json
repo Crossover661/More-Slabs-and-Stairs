@@ -3,12 +3,12 @@
 	"id": "more-slabs-and-stairs",
 	"version": "1.1.0",
 	"name": "More Slabs And Stairs",
-	"description": "Adds slab and stair variants for common Minecraft building blocks",
+	"description": "Adds slab and stair variants for common building blocks",
 	"authors": [
-		"Me!"
+		"Crossover661"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
+		"homepage": "https://modrinth.com/mod/more-slabs-and-stairs/",
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
 	"license": "MIT",
