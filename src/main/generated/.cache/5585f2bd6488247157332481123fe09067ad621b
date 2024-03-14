@@ -1,4 +1,4 @@
-// 1.20.1	2024-03-08T11:36:48.8188599	More Slabs And Stairs/Recipes
+// 1.20.1	2024-03-14T13:22:20.5410493	More Slabs And Stairs/Recipes
 ad164d9f9eabb88acc00cddb027d24e3aeb9c0eb data\more-slabs-and-stairs\advancements\recipes\building_blocks\light_blue_concrete_slab.json
 c23389372bda95a52e0b7eb7c127f1e8d23f566c data\more-slabs-and-stairs\recipes\cyan_terracotta_stairs_from_cyan_terracotta_stonecutting.json
 a12ad413d320c52cc07bebbd13c1cd953525e022 data\more-slabs-and-stairs\advancements\recipes\building_blocks\emerald_slab_from_emerald_block_stonecutting.json
@@ -178,8 +178,8 @@ eab55fc22dc3a38174b57e83b265ac2225abf601 data\more-slabs-and-stairs\recipes\pink
 6815df75af1625465b5c055ba130599c6a81033b data\more-slabs-and-stairs\recipes\red_concrete.json
 a62abff7a6c3b1fcb48c4af31910bbd60ff94dc4 data\more-slabs-and-stairs\recipes\gold_block.json
 83f3a31e5c5bd5de01c7d792a86a52a08e12f2a9 data\more-slabs-and-stairs\recipes\lime_concrete_stairs_from_lime_concrete_stonecutting.json
-6376a22443ed572a841dffd8cc5eec76a057fb33 data\more-slabs-and-stairs\advancements\recipes\building_blocks\green_concrete_slab_from_green_concrete_stonecutting.json
 eb5e0c2c6782fc7060939bd4f70c9dc1a492bfa4 data\more-slabs-and-stairs\advancements\recipes\building_blocks\green_concrete_stairs_from_green_concrete_stonecutting.json
+6376a22443ed572a841dffd8cc5eec76a057fb33 data\more-slabs-and-stairs\advancements\recipes\building_blocks\green_concrete_slab_from_green_concrete_stonecutting.json
 f9d80cb6a21ca7430e25f82d5bdb0f06f930a35e data\more-slabs-and-stairs\recipes\warped_planks.json
 f272fe4e3208dcb53258f4a982a7859f4aa53cb3 data\more-slabs-and-stairs\advancements\recipes\building_blocks\lapis_slab.json
 72415550a51c20c224ba9dbfa13fdd0b1fa2af8e data\more-slabs-and-stairs\recipes\deepslate_tiles.json
@@ -355,6 +355,7 @@ e0e78620038731a43e11d8dbfe8f8cbce7da2322 data\more-slabs-and-stairs\advancements
 a797aacf8167e175596d94104f66bc4d9c714c3f data\more-slabs-and-stairs\advancements\recipes\building_blocks\black_concrete_slab_from_black_concrete_stonecutting.json
 8e5e34aab770e7ee402e68aa4e6b4d1768d060b7 data\more-slabs-and-stairs\recipes\lime_concrete_stairs.json
 f045fe7bbb074a1b365198f6f3cd3ae7b0d0df44 data\more-slabs-and-stairs\advancements\recipes\building_blocks\yellow_concrete_stairs.json
+caf28fa02bdec30f2b2f5610034af6838cc1ab2a data\more-slabs-and-stairs\recipes\quartz.json
 f9c54fc143facd07658f17e756ad6bb7e358449f data\more-slabs-and-stairs\recipes\purple_concrete_slab.json
 957d0a17fcd5d3b55f9d36fbba7198def20da3b9 data\more-slabs-and-stairs\recipes\calcite_stairs_from_calcite_stonecutting.json
 a34a8033f6b2aea2ba077ef017c0c9c8ab3fd4a1 data\more-slabs-and-stairs\advancements\recipes\building_blocks\white_terracotta.json
@@ -500,6 +501,7 @@ b0f112ed1974505d32c9141821d75241be32fc5b data\more-slabs-and-stairs\recipes\ligh
 c96a03fcfbf8598a4ec483a877c0cfe3c58936ed data\more-slabs-and-stairs\advancements\recipes\building_blocks\mud_bricks.json
 7640c0e5f5d8841398db132b72ad296eaddf0663 data\more-slabs-and-stairs\advancements\recipes\building_blocks\purpur_block.json
 0a427ee402018fc3a79baeff02eb7c636330478e data\more-slabs-and-stairs\recipes\crimson_planks.json
+b81d9a029e1cb92955f2a271e48108f5f7468d88 data\more-slabs-and-stairs\advancements\recipes\misc\quartz.json
 e5c55edceda704865cc0ee604e4cbea148349b39 data\more-slabs-and-stairs\advancements\recipes\building_blocks\red_concrete.json
 da36bf6564ef23586174740a476df994eb33639f data\more-slabs-and-stairs\recipes\diamond_stairs.json
 733afde30f144304b1e04d539b8c197b880a0e11 data\more-slabs-and-stairs\advancements\recipes\building_blocks\magenta_terracotta.json
@@ -528,8 +530,8 @@ d51ca2fba4036d4a5e0783a6bf0ccdc80c122933 data\more-slabs-and-stairs\advancements
 6a94c7fc62ed9e892694fa2ef5ec8295f945aa4d data\more-slabs-and-stairs\recipes\magenta_terracotta_slab_from_magenta_terracotta_stonecutting.json
 bc779a41d821fadc31c36531dc937ee07a428a66 data\more-slabs-and-stairs\advancements\recipes\building_blocks\deepslate_tiles.json
 8be008b9a7913935b281955c696469f25152da63 data\more-slabs-and-stairs\advancements\recipes\building_blocks\lime_terracotta_stairs_from_lime_terracotta_stonecutting.json
-58fd348cf8cd6eb3b9ad07c09620c11835650b05 data\more-slabs-and-stairs\advancements\recipes\building_blocks\lime_concrete.json
 b954a419365132474ef958b1d2654e83c7355b77 data\more-slabs-and-stairs\recipes\orange_concrete.json
+58fd348cf8cd6eb3b9ad07c09620c11835650b05 data\more-slabs-and-stairs\advancements\recipes\building_blocks\lime_concrete.json
 913212da345aae14955ded93dec3e75e45d65475 data\more-slabs-and-stairs\recipes\lime_terracotta_slab_from_lime_terracotta_stonecutting.json
 c2584e01c25013ea33410a06365deac054b3dc06 data\more-slabs-and-stairs\recipes\exposed_cut_copper.json
 098ee98926f12acf0907d891c002bb5ed98eb1e2 data\more-slabs-and-stairs\advancements\recipes\building_blocks\purple_terracotta_slab.json

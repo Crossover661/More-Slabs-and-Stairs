@@ -14,8 +14,7 @@ public class ModTags {
         public static final TagKey<Block> CONCRETE_STAIRS = createBlockTag("concrete_stairs");
         public static final TagKey<Block> TERRACOTTA_SLABS = createBlockTag("terracotta_slabs");
         public static final TagKey<Block> TERRACOTTA_STAIRS = createBlockTag("terracotta_stairs");
-        private static TagKey<Block> createBlockTag(String name)
-        {
+        private static TagKey<Block> createBlockTag(String name) {
             return TagKey.of(RegistryKeys.BLOCK, new Identifier(MoreSlabsAndStairs.MOD_ID, name));
         }
     }

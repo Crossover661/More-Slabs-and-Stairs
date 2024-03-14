@@ -1,4 +1,4 @@
-// 1.20.1	2024-03-08T11:36:48.8289384	More Slabs And Stairs/Block Loot Tables
+// 1.20.1	2024-03-14T13:22:20.5490545	More Slabs And Stairs/Block Loot Tables
 6ecb3210a7e741f013bbe8345ec2216b03f1e417 data\more-slabs-and-stairs\loot_tables\blocks\pink_terracotta_stairs.json
 e2758c84bc0b363521ab79d87c10f4f624186915 data\more-slabs-and-stairs\loot_tables\blocks\green_concrete_slab.json
 f82ccac943d638c0902dcf6984b0ee9416b81508 data\more-slabs-and-stairs\loot_tables\blocks\green_terracotta_slab.json
@@ -12,12 +12,12 @@ ef4e8a94b7ff9d17dabc217c6ebcdbb8b72c800d data\more-slabs-and-stairs\loot_tables\
 d1dd0659557340dbf5ed2851289c327744f0b5ac data\more-slabs-and-stairs\loot_tables\blocks\cyan_terracotta_slab.json
 85ab920a9348acc3adf60c6c216b370aaed3522e data\more-slabs-and-stairs\loot_tables\blocks\magenta_concrete_stairs.json
 f1429ee49d382070790114e1d4529da410bb6036 data\more-slabs-and-stairs\loot_tables\blocks\brown_concrete_slab.json
-2b3ba4aacf64c083cf187310888c3c63c9a2403f data\more-slabs-and-stairs\loot_tables\blocks\cyan_concrete_slab.json
 cad608265bdcb3c597eb5e879541c5dd7641257a data\more-slabs-and-stairs\loot_tables\blocks\green_concrete_stairs.json
+2b3ba4aacf64c083cf187310888c3c63c9a2403f data\more-slabs-and-stairs\loot_tables\blocks\cyan_concrete_slab.json
 60483702560ba9f0653b2a273344d0539287d0e9 data\more-slabs-and-stairs\loot_tables\blocks\iron_stairs.json
 847deaa05a454d01da5dfcb6e8d3718ed51b752d data\more-slabs-and-stairs\loot_tables\blocks\coal_slab.json
-b0aae034bf7a5bb4a7ce38d811b931bcd9dafec2 data\more-slabs-and-stairs\loot_tables\blocks\yellow_concrete_slab.json
 ae6562e954d6aa7e47d4bcdf12522ab93aff57ce data\more-slabs-and-stairs\loot_tables\blocks\orange_concrete_slab.json
+b0aae034bf7a5bb4a7ce38d811b931bcd9dafec2 data\more-slabs-and-stairs\loot_tables\blocks\yellow_concrete_slab.json
 4e88eaf4db775033e48884a3194d175774e1a876 data\more-slabs-and-stairs\loot_tables\blocks\gold_slab.json
 d707c6a07fb25fc60f9b598246060ab79a2ca5da data\more-slabs-and-stairs\loot_tables\blocks\magenta_terracotta_slab.json
 ab18631a54944b67e9655552375e8d74750c6d54 data\more-slabs-and-stairs\loot_tables\blocks\lime_concrete_slab.json
@@ -78,8 +78,8 @@ cb122603baa4529677ada5530b2e59d2ff425ccd data\more-slabs-and-stairs\loot_tables\
 4f3ed42620f53b1afc25359141831887b55d31c1 data\more-slabs-and-stairs\loot_tables\blocks\black_concrete_slab.json
 6ffa87df3339801c822ddd6a1a655cb6ccc40a1b data\more-slabs-and-stairs\loot_tables\blocks\quartz_brick_slab.json
 591d5ae2efeb032a78b7b5be8631c52a50c05e6f data\more-slabs-and-stairs\loot_tables\blocks\light_gray_terracotta_stairs.json
-11ef4c180ed689dec5e88f15f7ac78397515bee6 data\more-slabs-and-stairs\loot_tables\blocks\gray_concrete_stairs.json
 8d6f4112a73c179d6272a4ae6b6ca715790cec8c data\more-slabs-and-stairs\loot_tables\blocks\blue_concrete_slab.json
+11ef4c180ed689dec5e88f15f7ac78397515bee6 data\more-slabs-and-stairs\loot_tables\blocks\gray_concrete_stairs.json
 21fb01f4d53b97bf93b52e2f1729afc26e1c377e data\more-slabs-and-stairs\loot_tables\blocks\obsidian_slab.json
 6522497ea3b8804044a382444bcd9bf20ac0f33c data\more-slabs-and-stairs\loot_tables\blocks\black_concrete_stairs.json
 47234d9ea829e60c3098796920a1d47d90e22f0c data\more-slabs-and-stairs\loot_tables\blocks\blue_terracotta_stairs.json

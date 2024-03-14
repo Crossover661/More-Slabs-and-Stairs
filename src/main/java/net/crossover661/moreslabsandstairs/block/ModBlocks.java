@@ -196,19 +196,16 @@ public class ModBlocks {
             FabricBlockSettings.copyOf(Blocks.PINK_TERRACOTTA)));
 
 
-    private static Block registerBlock(String name, Block block)
-    {
+    private static Block registerBlock(String name, Block block) {
         registerBlockItem(name, block);
         return Registry.register(Registries.BLOCK, new Identifier(MoreSlabsAndStairs.MOD_ID, name), block);
     }
 
-    public static Item registerBlockItem(String name, Block block)
-    {
+    public static Item registerBlockItem(String name, Block block) {
         return Registry.register(Registries.ITEM, new Identifier(MoreSlabsAndStairs.MOD_ID, name),
                 new BlockItem(block, new FabricItemSettings()));
     }
-    public static void registerModBlocks()
-    {
+    public static void registerModBlocks() {
         MoreSlabsAndStairs.LOGGER.info("Registering ModBlocks for " + MoreSlabsAndStairs.MOD_ID);
     }
 }

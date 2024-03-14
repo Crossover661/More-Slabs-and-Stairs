@@ -7,14 +7,12 @@ import net.minecraft.block.Block;
 
 public class ModBlockLootTableGenerator extends FabricBlockLootTableProvider {
     public ModBlockLootTableGenerator(FabricDataOutput dataOutput) { super(dataOutput);}
-    private void addDrops(Block slab, Block stairs)
-    {
+    private void addDrops(Block slab, Block stairs) {
         addDrop(stairs);
         addDrop(slab,slabDrops(slab));
     }
     @Override
-    public void generate()
-    {
+    public void generate() {
         addDrops(ModBlocks.IRON_SLAB, ModBlocks.IRON_STAIRS);
         addDrops(ModBlocks.GOLD_SLAB, ModBlocks.GOLD_STAIRS);
         addDrops(ModBlocks.DIAMOND_SLAB, ModBlocks.DIAMOND_STAIRS);

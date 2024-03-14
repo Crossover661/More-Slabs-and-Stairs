@@ -9,15 +9,13 @@ import net.minecraft.data.client.ItemModelGenerator;
 
 public class ModModelProvider extends FabricModelProvider {
     public ModModelProvider(FabricDataOutput output) {super(output);}
-    private void genSlabStairModels(BlockStateModelGenerator blockStateModelGenerator, Block block, Block slab, Block stairs)
-    {
+    private void genSlabStairModels(BlockStateModelGenerator blockStateModelGenerator, Block block, Block slab, Block stairs) {
         BlockStateModelGenerator.BlockTexturePool pool = blockStateModelGenerator.registerCubeAllModelTexturePool(block);
         pool.stairs(stairs);
         pool.slab(slab);
     }
     @Override
-    public void generateBlockStateModels(BlockStateModelGenerator blockStateModelGenerator)
-    {
+    public void generateBlockStateModels(BlockStateModelGenerator blockStateModelGenerator) {
         genSlabStairModels(blockStateModelGenerator, Blocks.IRON_BLOCK, ModBlocks.IRON_SLAB, ModBlocks.IRON_STAIRS);
         genSlabStairModels(blockStateModelGenerator, Blocks.GOLD_BLOCK, ModBlocks.GOLD_SLAB, ModBlocks.GOLD_STAIRS);
         genSlabStairModels(blockStateModelGenerator, Blocks.DIAMOND_BLOCK, ModBlocks.DIAMOND_SLAB, ModBlocks.DIAMOND_STAIRS);

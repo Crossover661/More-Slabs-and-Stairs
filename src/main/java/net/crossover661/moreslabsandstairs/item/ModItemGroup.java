@@ -7,10 +7,8 @@ import net.minecraft.item.ItemConvertible;
 import net.minecraft.item.ItemGroups;
 
 public class ModItemGroup {
-    public static void registerItemGroups()
-    {
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.BUILDING_BLOCKS).register(content ->
-        {
+    public static void registerItemGroups() {
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.BUILDING_BLOCKS).register(content -> {
             content.addAfter(Blocks.IRON_BLOCK, ModBlocks.IRON_SLAB);
             content.addAfter(ModBlocks.IRON_SLAB, ModBlocks.IRON_STAIRS);
             content.addAfter(Blocks.GOLD_BLOCK, ModBlocks.GOLD_SLAB);
@@ -36,8 +34,7 @@ public class ModItemGroup {
             content.addAfter(Blocks.BEDROCK, ModBlocks.BEDROCK_SLAB);
             content.addAfter(ModBlocks.BEDROCK_SLAB, ModBlocks.BEDROCK_STAIRS);
         });
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COLORED_BLOCKS).register(content ->
-        {
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COLORED_BLOCKS).register(content -> {
             content.addAfter(Blocks.PINK_CONCRETE, ModBlocks.WHITE_CONCRETE_SLAB);
             content.addAfter(ModBlocks.WHITE_CONCRETE_SLAB, ModBlocks.LIGHT_GRAY_CONCRETE_SLAB);
             content.addAfter(ModBlocks.LIGHT_GRAY_CONCRETE_SLAB, ModBlocks.GRAY_CONCRETE_SLAB);

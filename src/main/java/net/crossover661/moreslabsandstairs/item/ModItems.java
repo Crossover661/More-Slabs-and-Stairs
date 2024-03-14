@@ -15,8 +15,7 @@ public class ModItems {
     private static Item registerItem(String name, Item item) {
         return Registry.register(Registries.ITEM, new Identifier(MoreSlabsAndStairs.MOD_ID, name), item);
     }
-    private static void itemGroupBuildingBlocks(FabricItemGroupEntries entries)
-    {
+    private static void itemGroupBuildingBlocks(FabricItemGroupEntries entries) {
         entries.add(ModBlocks.IRON_SLAB);
         entries.add(ModBlocks.IRON_STAIRS);
         entries.add(ModBlocks.GOLD_SLAB);
@@ -45,8 +44,7 @@ public class ModItems {
         entries.add(ModBlocks.CALCITE_SLAB);
         entries.add(ModBlocks.CALCITE_STAIRS);
     }
-    private static void itemGroupColoredBlocks(FabricItemGroupEntries entries)
-    {
+    private static void itemGroupColoredBlocks(FabricItemGroupEntries entries) {
         entries.add(ModBlocks.WHITE_CONCRETE_SLAB);
         entries.add(ModBlocks.WHITE_CONCRETE_STAIRS);
         entries.add(ModBlocks.LIGHT_GRAY_CONCRETE_SLAB);
